@@ -1,0 +1,7 @@
+*.txt
+*.md
+./.vscode/*.*
+*.json
+megaphone
+Phonebook
+*.o
